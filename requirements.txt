@@ -1,0 +1,13 @@
+aiohttp
+dnspython
+feedparser
+gitpython
+heroku3
+psycopg2-binary
+pyrogram==1.4.16
+pymongo
+python-dotenv
+Pyromod
+speedtest-cli
+TgCrypto
+wget
