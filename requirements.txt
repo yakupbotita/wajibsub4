@@ -4,7 +4,7 @@ feedparser
 gitpython
 heroku3
 psycopg2-binary
-pyrogram==1.4.16
+pyrogram==2.0.106
 pymongo
 python-dotenv
 Pyromod
